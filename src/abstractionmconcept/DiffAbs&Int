@@ -1,0 +1,20 @@
+       Abstraction
+
+        //partial abstraction
+        //hiding the implementation logic ---is called Abstraction
+        //can not create object of Abstract class
+        //You can use any type of varialbe
+        //extend
+
+
+
+
+        //only final and static variable
+        final int wheels = 4;
+
+        //Alwasys define only the abstract method
+        //no mehtod body
+        //only mehtod declaration
+        //we achieve 100% abstaction
+        //can not create object of interface
+        //implements

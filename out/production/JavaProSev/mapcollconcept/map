@@ -1,0 +1,17 @@
+//Map is part of the collection interface
+//Map does take the duplicate value and  update the value if its given and it will print the update value
+//Each key and value called as Entry
+//Map is easy to use if you have to search, update or delete elements on the basis of key
+//Java HaspMap a class which implements the map interface
+//Contains ony unque values
+//stores values on the basis of key -value pair
+//it may have one null key and muttiple null values
+
+The map interface will have unique key value. A key is an object that you use to retreive a value at a later date.
+Given a key and a value, you can store the value in a map object. After the value is stored, you can retrieve it by using its key
+
+Several methods throw a NoSuchElementException when no items exist in the invoking map.
+A ClassCastException is thrown when an object is incompatible with the elements in a map
+A NullPointer Exception is thrown if an attempt is made to use a null object and null is not allowed in the map
+An UnsupportedOperationException is thrown when an attempt is made to change an unmodifiable map.
+

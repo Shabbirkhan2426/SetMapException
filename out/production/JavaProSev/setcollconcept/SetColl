@@ -1,0 +1,6 @@
+//In set, you cannot have duplicate value.
+//Set are inordered list
+//Set only allows unique values
+//Becasue set values are in order thats whey there is no get for indexing
+//You cannot fetch the value by index wise
+//You cannot use for loop when working on a set

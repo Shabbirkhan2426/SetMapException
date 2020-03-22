@@ -1,0 +1,11 @@
+Arraylist
+
+//It is the best choice if our frequent operation is Retrieval
+//Arraylist is the worst choice if our frequent operation is insertion or deletiion
+//you can have duplicate values
+
+Linkedlist
+
+
+//It is the best choice if our frequent operation is insertion or deletion
+//Linkedlist is the worst choice if our frequent operation is retrieval operation
